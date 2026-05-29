@@ -1,0 +1,6 @@
+model_name: bert-base-cased
+learning_rate: 2e-5
+batch_size: 16
+epochs: 3
+weight_decay: 0.01
+max_length: 128
